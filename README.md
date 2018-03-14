@@ -9,13 +9,14 @@
 该项目所包含的教程包括基于CraftBukkit、SpigotMC以及Sponge的服务器搭建方法、文件下载。
 
 # 服务器的详细信息(正式发布后更新细节)
-服务器所使用的Minecraft版本：1.8.9，如果之后有时间，开发个1.13的；
+服务器所使用的Minecraft版本：1.8.9 (如果之后有时间，开发个1.13的)；
 
-启动器：国际正版 (https://minecraft.net/zh-hans/store/minecraft)
-或 HMCL (https://github.com/huanghongxun/HMCL)
+启动器：Hello! Minecraft Launcher (https://github.com/huanghongxun/HMCL)
 
 API:自带Forge API 11.15.1.2318 (http://files.minecraftforge.net/)
 和 Optifine API HD U I3 (https://www.optifine.net/home)
+
+服务端：SpongeForge 1.8.9 (https://spongepowered.org)
 
 模组:[1.8.9] 按键显示.jar
 
@@ -31,7 +32,21 @@ API:自带Forge API 11.15.1.2318 (http://files.minecraftforge.net/)
 
 [1.8.9] 坐标显示.jar
 
-材质包:药儿PVP材质包、条码PVP材质包、灰机PVP材质包
+材质包:药儿、条码、灰机PVP材质包
+
+光影包：CONTINUUM 光影效果包
+
+KUDA 光影效果包
+
+SONIC ETHER’S （SEUS） 光影效果包
+
+SILDURS 光影效果包
+
+SM 光影效果包
+
+MRMEEPZ 光影效果包
+
+CYBOX 光影效果包
 
 # 问答
 Q1:什么时候开服？
@@ -45,3 +60,18 @@ A2：开服后，本页面将更新整合包下载地址。
 Q3：我有建议应在哪里反馈？
 
 A3：点击在本项目上方的“Issues”，再点击绿色的“New Issues”进行反馈即可。
+
+# 鸣谢
+HMCL作者及主要贡献者：huanghongxun
+
+Forge的开发者们
+
+Optifine的开发者们
+
+SpongeForge的开发者们
+
+所有模组的开发者们
+
+触手平台主播：药儿哟、萌萌哒条码、天才小灰机
+
+光影包的作者们
