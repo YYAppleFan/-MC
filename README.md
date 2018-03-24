@@ -13,10 +13,10 @@
 
 启动器：Hello! Minecraft Launcher (https://github.com/huanghongxun/HMCL)
 
-API:自带Forge API 11.15.1.2318 (http://files.minecraftforge.net/)
+API:自带Forge API 11.15.1.1890 (http://files.minecraftforge.net/)
 和 Optifine API HD U I3 (https://www.optifine.net/home)
 
-服务端：SpongeForge 1.8.9 (https://spongepowered.org)
+服务端：SpongeForge 4.2.0-BETA-1653 (https://spongepowered.org)
 
 模组:[1.8.9] 按键显示.jar
 
@@ -48,6 +48,26 @@ MRMEEPZ 光影效果包
 
 CYBOX 光影效果包
 
+# 服务器搭建教程
+如果你尚不清楚Minecraft的基本操作，整合包中包含一个地图，以供学习（稍后发布）
+
+如果你已经了解基本操作，就可以着手建立服务器了。要求的最低配置：2GB RAM,10M光纤（可带动20人加入，不可同时运行其他程序，否则FPS会大大降低）。
+
+要开启服务器，必须下载一个服务端文件来启动和管理服务器。MOJANG官方提供了最新MC版本的服务端（“纯净服”）及启动方法(https://minecraft.net/zh-hans/download/server)，直接下载：(https://s3.amazonaws.com/Minecraft.Download/versions/1.8.9/minecraft_server.1.8.9.jar)，如想下载对应自己版本的服务端，请将上方网址中的“1.8.9”改为自己的版本再下载。
+
+【注意：服务端只会将服务器存档公布到网络上，并不能启动客户端进入游戏】
+
+就如Mod对Minecraft。服务器也有“Mod”——插件。Mod需要Forge加载，插件也需要由服务端特定的来加载。在1.8版本以下，CraftBukkit（水桶服，下称CB），SpigotMC（水桶服衍生，下称SG），在1.8版本以上，以SpongeForge（海绵服）为主。
+
+首先介绍一下CB和SG。CB是第一个带插件的服务端，SG是衍生版本。后因CB因未公开所有代码违反了其加入的DMCA开源协议，致其官方下载点被移除，SG也受牵连。CB和SG通过另一种方法发布新版本——搭建工具（BuildTools.jar）,类似一个在线安装包，可在这里下载：(https://hub.spigotmc.org/jenkins/job/BuildTools/)。要使用这个搭建工具，需要Java(www.java.com)和Git(http://msysgit.github.io/)。安装完之后选择一个放置服务器文件的文件夹，将搭建工具放到该文件夹里，然后右键选择“Git Bash Here”,输入以下代码：java -jar <将搭建工具.jar拖动至该窗口> --rev <MC版本>，等待其下载完成。
+
+【注意：由于CB和SG都需要纯净服才能运行且通过Bash下载太慢，建议提前在服务器文件夹中准备好MOJANG官方提供的服务端，否则极大几率会失败】
+
+最后在该文件夹新建一个TXT文档，输入
+
+@ECHO OFF
+java -Xms1g -Xmx1g -jar <此处换成你下载到的文件的文件名>.jar
+pause
 # 问答
 Q1:什么时候开服？
 
