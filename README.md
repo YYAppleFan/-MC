@@ -132,7 +132,7 @@ motd 服务器信条，就是在添加服务器后显示的那个- -
 
 还有eula.txt,这是一个Minecraft服务器协议，他要求服主们不得以服务器盈利，否则就不给开服，所以必须把该文件中的false改成true。
 
-手写+手打，实属不易。1.7.10的CB和SG的整合包以及1.8.9的SpongeForge整合包已上传至“Code”，供各位开服。
+手写+手打，实属不易。1.7.10的CB和SG的整合包以及1.8.9的SpongeForge整合包下载链接: https://pan.baidu.com/s/1l357KW66o0JzfUmLYOZ6iw 密码: rz8e，可供各位开服。
 
 # 问答
 Q1:什么时候开服？
