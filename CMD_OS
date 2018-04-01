@@ -1,4 +1,4 @@
 # 这里提供了该服务器中所有命令方块的代码
-##大厅
+##跑酷挑战
 /title @p title 好像传送错地方了呢
-/title @p subtitle 
+/title @p subtitle 向西疾跑
