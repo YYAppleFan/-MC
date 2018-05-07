@@ -34,7 +34,7 @@ Click the 'Install' button to install it.
 [**ATTENTION**:The new version of Chrome will automatically delete extensions not downloaded from the Chrome Web Store. After installing the extension,go to Chrome Web Store (https://chrome.google.com/extensions) to install the extension **AGAIN**!
 (Name of the extension:skyZIP Proxy)]
 
-Using the extension is very easy. Click opn its icon. All done!
+Using the extension is very easy. Click on its icon. All done!
 
 ## Gentilemen's Needs
 Some videos will help you to dress yourself,go to Bilibili (https://bilibili.com) ,~~The largest LGBT community in China(According to Apple App Store)~~,China's largest animation website and search '女装大佬'. You'll get what you want. Wanna buy things like wigs,fake boobs? [Click Here]. Wanna watch some Otokonoko [a]ction [v]ideos? Don't do it,my young,if you don't want to be a salty fish.~~(https://pan.baidu.com)~~
