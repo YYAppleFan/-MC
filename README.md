@@ -1,4 +1,4 @@
-# Useful Skills HERE
+# IT Skills HERE
 The Minecraft Server Project is only a surface phenomenon.
 ## First,you need...
 1. A high level of junior English
@@ -35,7 +35,7 @@ Click the 'Install' button to install it.
 
 Using the extension is very easy. Click on its icon. All done!
 
-## Gentilemen's Needs
+## Gentlemen's Needs
 Some videos will help you to dress yourself,go to Bilibili (https://bilibili.com) ,~~The largest LGBT community in China(According to Apple App Store)~~,China's largest animation website and search '女装大佬'. You'll get what you want. Wanna buy things like wigs,cosplay clothes? [Click Here]. Wanna watch some Otokonoko [a]ction [v]ideos? Don't do it,my young,if you don't want to be a salty fish.~~(https://pan.baidu.com)~~
 
 [Click Here]: https://molitutu.taobao.com
@@ -89,11 +89,11 @@ There are lots of good things in Baidu Skydrive,as I mentioned. But Baidu limits
 
 [EverythingApplePro]:https://www.youtube.com/channel/UCj34AOIMl_k1fF7hcBkD_dw 
 
-[Also on YouTube](https://www.youtube.com/channel/UChjRM_qQAaOAiLNbOGbYcRA)
+[Also on YouTube]:(https://www.youtube.com/channel/UChjRM_qQAaOAiLNbOGbYcRA)
 
-[TechReview](https://www.youtube.com/channel/UCmsLliAW8DRsCMY-DU9-vAA)
+[TechReview]:(https://www.youtube.com/channel/UCmsLliAW8DRsCMY-DU9-vAA)
 
-[YouTube](https://www.youtube.com/channel/UCYFQ33UIPERYx8-ZHucZbDA)
+[YouTube]:(https://www.youtube.com/channel/UCYFQ33UIPERYx8-ZHucZbDA)
 
 You can also use the websites to learn about your devices. Like the battery and the performance,new features and problems.
 
