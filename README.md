@@ -70,6 +70,7 @@ java -jar <将搭建工具.jar拖动至该窗口> --rev <MC版本>
 @ECHO OFF
 java -Xms1g -Xmx1g -jar <此处换成你下载到的文件的文件名>.jar
 pause
+```
 并保存为start.cmd文件，运行它即可启动服务器。如需安装插件，将下载好的插件拖入plugins文件夹
 
 【CB与SG优点：稳定，插件多，历史悠久；缺点：不能安装MOD，配置过程复杂】
