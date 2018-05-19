@@ -9,7 +9,7 @@ The Minecraft Server Project is only a surface phenomenon.
 
 [Download]:https://www.google.cn/chrome/?standalone=1
 
-##OS
+## OS
 OS，operating system,is a computer program that organizes a number of other programs at the same time.
 In this part,I'll introduce Windows®。
 
@@ -294,11 +294,11 @@ Microsoft will help you all the time.
 
 [EverythingApplePro]:https://www.youtube.com/channel/UCj34AOIMl_k1fF7hcBkD_dw 
 
-[Also on YouTube]:(https://www.youtube.com/channel/UChjRM_qQAaOAiLNbOGbYcRA)
+[Also on YouTube]:https://www.youtube.com/channel/UChjRM_qQAaOAiLNbOGbYcRA
 
-[TechReview]:(https://www.youtube.com/channel/UCmsLliAW8DRsCMY-DU9-vAA)
+[TechReview]:https://www.youtube.com/channel/UCmsLliAW8DRsCMY-DU9-vAA
 
-[YouTube]:(https://www.youtube.com/channel/UCYFQ33UIPERYx8-ZHucZbDA)
+[YouTube]:https://www.youtube.com/channel/UCYFQ33UIPERYx8-ZHucZbDA
 
 You can also use the websites to learn about your devices. Like the battery and the performance,new features and problems.
 
