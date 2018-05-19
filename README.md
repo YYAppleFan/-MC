@@ -9,6 +9,8 @@ The Minecraft Server Project is only a surface phenomenon.
 
 [Download]:https://www.google.cn/chrome/?standalone=1
 
+[OS](README.md#OS)
+
 ## OS
 OS，operating system,is a computer program that organizes a number of other programs at the same time.
 In this part,I'll introduce Windows®。
