@@ -1,15 +1,64 @@
 # IT Skills HERE
-The Minecraft Server Project is only a surface phenomenon.
+This guide is written to show advanced skills.
+If your PC and iDevices are running perfectly,you don't need to read this article.
+
+##Recommend PC configuration
+1.Mac (End of 2017)
+
+* Intel® i5(7th) 3.4GHz*4
+* 1TB Fusion Drive
+* 16GB RAM
+* Radeon Pro 4GB Display-RAM
+
+2.Windows PC
+
+* Intel® i7 8700K
+* ASUS® TUF Z370-PLUS GAMING
+* Kingston® Savage 16GB DDR4 3000
+* Samsung® 850 EVO SATA III (1TB)
+* Colorful® iGame GTX 1080Ti Vulcan XOC
+
 ## First,you need...
-1. A high level of junior English
+1. A computer with recommend configuration
 2. Google Chrome ([Download]) 
-   
+  
    Google Chrome is fast and secure,faster than any other browser(I do think it's good)
 3. READ ALL PARAGRAPHS,ESPECIALLY **Attention** 
 
 [Download]:https://www.google.cn/chrome/?standalone=1
 
-##OS
+## List
+
+- [OS](README.md#os)
+
+  * [Device Driver](README.md##device-driver)
+
+  * [Network](README.md##Network)
+
+    * [Break The Great Firewall: Virtual Private Network](README.md###break-the-great-firewall)
+
+    * [Beautify Chrome](README.md###beautify-chrome)
+    * [Download](README.md###download)
+      * [IDM](README.md####idm)
+      * [FDM](README.md####fdm)
+    * [Upload](README.md###upload)
+      * [Baidu Skydrive](README.md####baidu-skydrive)
+        * [Release Download Speed Limit of Baidu Skydrive](README.md##release-download-speed-limit-of-baidu-skydrive)
+      * [Tencent Weiyun](README.md###tencent-weiyun)
+      * [Others](README.md####others)
+
+  * [Useful Softwares](README.md##useful-softwares)
+
+  * [Security and Performance](README.md##security-and-performance)
+
+- [Mobile OS](README.md##mobile-os)
+
+  * [Suggested Websites](README.md###suggested-websites)
+
+- [End](README.md##end)
+
+## OS
+
 OS，operating system,is a computer program that organizes a number of other programs at the same time.
 In this part,I'll introduce Windows®。
 
@@ -87,7 +136,7 @@ You can install a program that help you check and install device drivers correct
 If you can't start Minecraft and there's no Minecraft windows,your screen's driver will probably go wrong.
 You need update it.
 
-##Network
+## Network
 Your computer is prepared already.
 Time to surf!
 Before you're going,you should have a COMPLETE network.
@@ -221,17 +270,17 @@ There are lots of good things in Baidu Skydrive,as I mentioned. But Baidu limits
 
 [**ATTENTION**:You'd better not use it when you're signed in. Baidu is always checking if users are using scripts. Do it in a private mode(Sharing Files is a good function)]
 
-###Tencent Weiyun
+### Tencent Weiyun
 Every QQ user can get 10GB space for free.
 If you're using TIM, you'll find out that you can get another 1TB space by inviting others to log in to TIM.
 Compared with Baidu,there are both upload and download speed limit,also,fewer resources.
 
-###Others
+### Others
 * Microsoft Onedrive is another choice. Only 15GB Is free to unpaid users.
 * Apple iCloud has 5GB space for everybody who has an Apple ID.
 * Google has an UNLIMITED storage for videos and photos,15GB for documents.
 
-##Useful Softwares
+## Useful Softwares
 * Unlocker:Delete everything. No warnings.
 * Dock:Apple Mac's dock on Windows.
 * Office:Nothing more to say.
@@ -239,7 +288,7 @@ Compared with Baidu,there are both upload and download speed limit,also,fewer re
 * [Download all of them](https://pan.baidu.com/s/1F-ghg9V3c1xBsIMrzSjChA)
 (Passcode:dnqy)
 
-##Security and Performance
+## Security and Performance
 Every PC user hopes that the computer can runvery fast and safely.
 Here are some tips.
 
@@ -253,7 +302,7 @@ Nobody knows better about Windows than Microsoft.
 Microsoft will help you all the time.
 - 3.Don't make some programs start with the system.
  >(1) Press  ![](https://msegceporticoprodassets.blob.core.windows.net/asset-blobs/11847_zh-cn_2) +R and type 'msconfig'.
- 
+
 >(2) Choose the fourth tab,then disable the programs.
 
 - 4.Close the background programs.
@@ -292,13 +341,13 @@ Microsoft will help you all the time.
 
 [iDB]: http://www.idownloadblog.com/
 
-[EverythingApplePro]:https://www.youtube.com/channel/UCj34AOIMl_k1fF7hcBkD_dw 
+[EverythingApplePro]:https://www.youtube.com/channel/UCj34AOIMl_k1fF7hcBkD_dw
 
-[Also on YouTube]:(https://www.youtube.com/channel/UChjRM_qQAaOAiLNbOGbYcRA)
+[Also on YouTube]:https://www.youtube.com/channel/UChjRM_qQAaOAiLNbOGbYcRA
 
-[TechReview]:(https://www.youtube.com/channel/UCmsLliAW8DRsCMY-DU9-vAA)
+[TechReview]:https://www.youtube.com/channel/UCmsLliAW8DRsCMY-DU9-vAA
 
-[YouTube]:(https://www.youtube.com/channel/UCYFQ33UIPERYx8-ZHucZbDA)
+[YouTube]:https://www.youtube.com/channel/UCYFQ33UIPERYx8-ZHucZbDA
 
 You can also use the websites to learn about your devices. Like the battery and the performance,new features and problems.
 
