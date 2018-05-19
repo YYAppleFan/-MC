@@ -2,7 +2,7 @@
 This guide is written to show advanced skills.
 If your PC and iDevices are running perfectly,you don't need to read this article.
 
-##Recommend PC configuration
+## Recommend PC configuration
 1.Mac (End of 2017)
 
 * Intel® i5(7th) 3.4GHz*4
