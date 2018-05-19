@@ -31,31 +31,31 @@ If your PC and iDevices are running perfectly,you don't need to read this articl
 
 - [OS](README.md#os)
 
-  * [Device Driver](README.md##device-driver)
+  * [Device Driver](README.md#device-driver)
 
-  * [Network](README.md##Network)
+  * [Network](README.md#Network)
 
-    * [Break The Great Firewall: Virtual Private Network](README.md###break-the-great-firewall)
+    * [Break The Great Firewall: Virtual Private Network](README.md#break-the-great-firewall)
 
-    * [Beautify Chrome](README.md###beautify-chrome)
-    * [Download](README.md###download)
-      * [IDM](README.md####idm)
-      * [FDM](README.md####fdm)
-    * [Upload](README.md###upload)
-      * [Baidu Skydrive](README.md####baidu-skydrive)
-        * [Release Download Speed Limit of Baidu Skydrive](README.md##release-download-speed-limit-of-baidu-skydrive)
-      * [Tencent Weiyun](README.md###tencent-weiyun)
-      * [Others](README.md####others)
+    * [Beautify Chrome](README.md#beautify-chrome)
+    * [Download](README.md#download)
+      * [IDM](README.md##idm)
+      * [FDM](README.md##fdm)
+    * [Upload](README.md#upload)
+      * [Baidu Skydrive](README.md##baidu-skydrive)
+        * [Release Download Speed Limit of Baidu Skydrive](README.md#release-download-speed-limit-of-baidu-skydrive)
+      * [Tencent Weiyun](README.md#tencent-weiyun)
+      * [Others](README.md#others-1)
 
-  * [Useful Softwares](README.md##useful-softwares)
+  * [Useful Softwares](README.md#useful-softwares)
 
-  * [Security and Performance](README.md##security-and-performance)
+  * [Security and Performance](README.md#security-and-performance)
 
-- [Mobile OS](README.md##mobile-os)
+- [Mobile OS](README.md#mobile-os)
 
-  * [Suggested Websites](README.md###suggested-websites)
+  * [Suggested Websites](README.md#suggested-websites)
 
-- [End](README.md##end)
+- [End](README.md#end)
 
 ## OS
 
