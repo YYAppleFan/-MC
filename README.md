@@ -88,7 +88,7 @@ A：由于腐竹没那么多钱搞一个静态IP，想玩的时候叫我就行�
 
 4.Q：我还想反馈其他问题，怎么办？
 
-A：前往 [Pull Requests](https://github.com/YYAppleFan/Sounds-Of-Wind/pulls)。
+A：前往 [Issues](https://github.com/YYAppleFan/Sounds-Of-Wind/issues)。
 
 ## 服务器搭建教程
 如果你尚不清楚Minecraft的基本操作，整合包中包含一个地图，以供学习（稍后发布）
@@ -175,19 +175,6 @@ motd 服务器信条，就是在添加服务器后显示的那个- -
 还有eula.txt,这是一个Minecraft服务器协议，他要求服主们不得以服务器盈利，否则就不给开服，所以必须把该文件中的false改成true。
 
 手写+手打，实属不易。1.7.10的CB和SG的整合包以及1.8.9的SpongeForge整合包下载链接: https://pan.baidu.com/s/1l357KW66o0JzfUmLYOZ6iw 密码: rz8e，可供各位开服。
-
-## 问答
-Q1:什么时候开服？
-
-A1：应该在暑假，服主得把中考搞好。
-
-Q2：开服后如何进入服务器？
-
-A2：开服后，本页面将更新整合包下载地址。
-
-Q3：我有建议应在哪里反馈？
-
-A3：点击在本项目上方的“Issues”，再点击绿色的“New Issues”进行反馈即可。
 
 ## 鸣谢
 HMCL作者及主要贡献者：huanghongxun
