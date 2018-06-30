@@ -52,7 +52,7 @@ MRMEEPZ 光影效果包
 CYBOX 光影效果包
 
 ## 游玩方法：
-1.下载 [Release](https://github.com/YYAppleFan/Sounds-Of-Wind/releases)中的上传的 CMD_OS-v0.1-beta.zip
+1.下载 [Release](https://github.com/YYAppleFan/Sounds-Of-Wind/releases) 中的上传的 CMD_OS-v0.1-beta.zip
 
 2.解压，打开其中的 HMCL 3.1.65.jar
 
