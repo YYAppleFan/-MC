@@ -52,13 +52,20 @@ MRMEEPZ 光影效果包
 CYBOX 光影效果包
 
 ## 游玩方法：
-1.下载[Release](https://github.com/YYAppleFan/Sounds-Of-Wind/releases)中的上传的 CMD_OS-v0.1-beta.zip
+1.下载 [Release](https://github.com/YYAppleFan/Sounds-Of-Wind/releases)中的上传的 CMD_OS-v0.1-beta.zip
+
 2.解压，打开其中的 HMCL 3.1.65.jar
+
 3.输入自己的角色名，点按“确定”
+
 4.点击左侧菜单栏的“当前目录”
+
 5.选择“1.9.4”版本右下角的小飞机图标
+
 6.进入游戏后，选择“多人游戏”
+
 7.选择“直接连接”，输入我所发布的IP
+
 8.即可畅玩。
 
 ## 常见问题
