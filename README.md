@@ -4,33 +4,36 @@
 
 该项目的Minecraft服务器暂未开放，正在构建中。预计最大承载量20人，带有纯净生存、PVP、PVE等玩法。服务器内测时问OP要整合包。
 
-（服主第一次搞服务器，啥都不知道，还要中考，ヾ(๑╹◡╹)ﾉ"）
-
 该项目所包含的教程包括基于CraftBukkit、SpigotMC以及Sponge的服务器搭建方法、文件下载。
 
-## 服务器的详细信息(正式发布后更新细节)
-服务器所使用的Minecraft版本：1.8.9 (如果之后有时间，开发个1.13的)；
+## 服务器的详细信息
+服务器所使用的Minecraft版本：1.9.4 (如果之后有时间，开发个1.13的)；
 
 启动器：Hello! Minecraft Launcher (https://github.com/huanghongxun/HMCL)
 
-API:自带Forge API 11.15.1.1890 (http://files.minecraftforge.net/)
-和 Optifine API HD U I3 (https://www.optifine.net/home)
+API:自带Forge API 12.17.0.1976 (http://files.minecraftforge.net/)
+和 OptiFine HD U E7 (https://www.optifine.net/home)
 
-服务端：SpongeForge 4.2.0-BETA-1653 (https://spongepowered.org) (http://files.minecraftforge.net/maven/org/spongepowered/spongeforge/)
 
-Mods:[1.8.9] 按键显示.jar
+Mods:
 
-[1.8.9] 方块信息.jar
+[1.9.4]末影接口.jar
 
-[1.8.9] 简洁血条.jar
+[1.9.4]末影核心.jar
 
-[1.8.9] 龙翼显示.jar
+[1.9.4]匠魂.jar
 
-[1.8.9] 输入修复.jar
+[1.9.4]足够的物品.jar
 
-[1.8.9] 药装显示.jar
+[1.9.4]一千种食物.jar
 
-[1.8.9] 坐标显示.jar
+[1.9.4]林业.jar
+
+[1.9.4]加速火把.jar
+
+[1.9.4]自定义NPC.jar
+
+[1.9.4]工业2实验版.jar
 
 材质包:药儿、条码、灰机PVP材质包
 
@@ -47,6 +50,38 @@ SM 光影效果包
 MRMEEPZ 光影效果包
 
 CYBOX 光影效果包
+
+## 游玩方法：
+1.下载[Release](https://github.com/YYAppleFan/Sounds-Of-Wind/releases)中的上传的 CMD_OS-v0.1-beta.zip
+2.解压，打开其中的 HMCL 3.1.65.jar
+3.输入自己的角色名，点按“确定”
+4.点击左侧菜单栏的“当前目录”
+5.选择“1.9.4”版本右下角的小飞机图标
+6.进入游戏后，选择“多人游戏”
+7.选择“直接连接”，输入我所发布的IP
+8.即可畅玩。
+
+## 常见问题
+1.Q：腐竹你个垃圾，压根就打不开 HMCL 3.1.65.jar
+
+A:这是因为你的电脑未安装Java的原因，
+Windows 64位版本下载：[jdk-8u172-windows-x64.exe](http://download.oracle.com/otn-pub/java/jdk/8u172-b11/a58eab1ec242421181065cdc37240b08/jdk-8u172-windows-x64.exe)
+
+Windows 32位版本下载： [jdk-8u172-windows-i586.exe](http://download.oracle.com/otn-pub/java/jdk/8u172-b11/a58eab1ec242421181065cdc37240b08/jdk-8u172-windows-i586.exe)
+
+macOS 下载： [jdk-8u172-macosx-x64.dmg](http://download.oracle.com/otn-pub/java/jdk/8u172-b11/a58eab1ec242421181065cdc37240b08/jdk-8u172-macosx-x64.dmg)
+
+2.Q：我点了小飞机，怎么没有反应？
+
+A：显卡驱动出了毛病，前往驱动精灵官网下载安装驱动。
+
+3.Q：IP是什么？
+
+A：由于腐竹没那么多钱搞一个静态IP，想玩的时候叫我就行。
+
+4.Q：我还想反馈其他问题，怎么办？
+
+A：前往 [Pull Requests](https://github.com/YYAppleFan/Sounds-Of-Wind/pulls)。
 
 ## 服务器搭建教程
 如果你尚不清楚Minecraft的基本操作，整合包中包含一个地图，以供学习（稍后发布）
