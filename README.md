@@ -30,7 +30,7 @@ If your PC and iDevices are running perfectly,you don't need to read this articl
 ## List
 
 - [OS](README.md#os)
-  * [Windows](README.md#Windows)
+  * [Windows](README.md#windows)
   
   * [Device Driver](README.md#device-driver)
 
@@ -161,21 +161,16 @@ THEY WANT TO USE THE NETWORK TO CHANGE OUR MIND.
 WE SHOULD LOVE OUR COUNTRY!
 
 If you want to use Google to search,Facebook to make friends,Twitter to watch Donald Trump,etc.
-Just download the extension (Link: https://pan.baidu.com/s/1Y-2yk0gJjnyPq469yEBIDw Passcode:wtqk)
-and install it.
+Shadowsocks will help you.
+[Shadowsocks](shadowsocks.org) is an application where you can use high quality proxy.
 
-Don't know how to install it? Just open Chrome,type
-```C++
-chrome://extensions
-```
-To enter the 'Extensions' Tab. Then move the extension you downloaded into the Chrome window.
-Click the 'Install' button to install it.
+This kind of proxy is far more secure than VPN,it uses SOCK5 Technology which can't be encrypt at all. It also supports over 15 encrytion methods like aes-256-cfb,chacha20,rc4-md5,etc.,you can even add Obfs and Protocol to your connection.
 
-[**ATTENTION**:The new version of Chrome will automatically delete extensions which are not downloaded from the Chrome Web Store. After installing the extension,go to Chrome Web Store to install the extension [**AGAIN**]!]
-
-[**AGAIN**]:https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi
-
-Using the extension is very easy. Click on its icon. All done!
+Because GFW is much stricter than before, free services all always unstable.
+So it's the time to pay. I don't want to pay too, but I have got some cheap services.
+* Add my QQ(2428405831) and pay 30RMB for high-speed and unlimited SSR.
+* Go to [Wait For wind,and YOU](http://www.waitwind.ga/auth/register?code=GBkk7S6AtZbFzD48935TQW6S13YpT5Wg) to buy a monthly service, from 5RMB for 50GB.
+So how to use? Click [here](http://www.waitwind.ga/user/announcement) to learn. 
 
 ### Beautify Chrome
 After breaking,you can surf with Chrome.
@@ -190,10 +185,10 @@ New features are quickly added and it's STABLE.
 >Google Chrome Icon
 
 Chrome is strong.
-we can use it to make a better experience with [*Stylish*],an extension in Chrome Web Store.
+we can use it to make a better experience with [*Stylus*],an extension in Chrome Web Store.
 Try some of them below!
 
-[*Stylish*]:https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe
+[*Stylus*]:https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne
 
 #### Baidu
 * TieBa - Maverick 【百度贴吧样式】: http://userstyles.org/styles/124770
@@ -247,28 +242,12 @@ That's a big number.
 Also,many files are uploaded to it,such as movies,pictures and documents.The only bad thing is... 
 ## Release Download Speed Limit of Baidu Skydrive
 There are lots of good things in Baidu Skydrive,as I mentioned. But Baidu limits you speed of downloading files. Imagine you are downloading a 2.47GB file with the speed of 10KB/s,it's terrible!(Baidu provides 2TB space for each user,so they limit the speed,or they'll collapse.) As the saying goes,'Master in civil',yi ming(username) writes a script to release download speed limit. Before you download this script,you need to download the extension:Tampermonkey
-### The Powerful Extension:Tampermonkey
-
-([Official site],[download the extension])
-
-*Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.* 
-
-*Tampermonkey makes it very easy to manage your userscripts and provides features like a clear overview over the running scripts, a built-in editor, ZIP-based import and export, automatic update checks and browser and cloud storage based synchronization.*
-
-[Official site]:http://tampermonkey.net
-[download the extension]:https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
-
-### The Useful Website:GreasyFork
-([Official],[download yi ming's script])
-
-*GreasyFork is a site for user scripts.*
-
-*What are user scripts?*
-
-*User scripts put you in control of your browsing experience. Once installed, they automatically make the sites you visit better by adding features, making them easier to use, or taking out the annoying bits. The user scripts on Greasy Fork were written by other users and posted to share with the world. They're free to install and easy to use.* 
-
-[Official]:https://greasyfork.org
-[download yi ming's script]:https://greasyfork.org/zh-CN/scripts/39776-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B%E4%BF%AE%E6%94%B9%E7%89%88
+### Proxyee-Down
+[Proxyee-Down](https://github.com/proxyee-down-org/proxyee-down) is a project which help download files faster on GitHub.
+It uses [Man-in-the-middle attack](https://zh.wikipedia.org/zh-hans/中间人攻击) to get the webpage, then the proxy server will edit the page in order to release the limit. Here is the way to use it.
+* [Download the program](https://imhx-my.sharepoint.com/personal/pd_imhx_onmicrosoft_com/Documents/Forms/All.aspx?slrid=8f94999e-10b7-0000-3f2c-5ca9b5ceecd6&RootFolder=%2Fpersonal%2Fpd_imhx_onmicrosoft_com%2FDocuments%2Fproxyee-down&FolderCTID=0x012000536DC31294EC264084FE880734F95AEA), remember to choose the latest version.
+* Extract the package, then click on [Proxyee Down.exe]()
+* Install the extension for Baidu Skydrive [Tutorial]（https://github.com/proxyee-down-org/proxyee-down/wiki/%E5%AE%89%E8%A3%85%E6%89%A9%E5%B1%95）
 
 [**ATTENTION**:You'd better not use it when you're signed in. Baidu is always checking if users are using scripts. Do it in a private mode(Sharing Files is a good function)]
 
