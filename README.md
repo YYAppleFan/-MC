@@ -30,7 +30,8 @@ If your PC and iDevices are running perfectly,you don't need to read this articl
 ## List
 
 - [OS](README.md#os)
-
+  * [Windows](README.md#Windows)
+  
   * [Device Driver](README.md#device-driver)
 
   * [Network](README.md#Network)
@@ -39,10 +40,10 @@ If your PC and iDevices are running perfectly,you don't need to read this articl
 
     * [Beautify Chrome](README.md#beautify-chrome)
     * [Download](README.md#download)
-      * [IDM](README.md##idm)
-      * [FDM](README.md##fdm)
+      * [IDM](README.md#idm)
+      * [FDM](README.md#fdm)
     * [Upload](README.md#upload)
-      * [Baidu Skydrive](README.md##baidu-skydrive)
+      * [Baidu Skydrive](README.md#baidu-skydrive)
         * [Release Download Speed Limit of Baidu Skydrive](README.md#release-download-speed-limit-of-baidu-skydrive)
       * [Tencent Weiyun](README.md#tencent-weiyun)
       * [Others](README.md#others-1)
@@ -57,14 +58,15 @@ If your PC and iDevices are running perfectly,you don't need to read this articl
 
 - [End](README.md#end)
 
-## OS
+# OS
 
 OS，operating system,is a computer program that organizes a number of other programs at the same time.
-In this part,I'll introduce Windows®。
+In this part,I'll introduce Windows® and macOS®。
 
+# Windows
 Windows'UI(User Interface) design is from Apple.
 Apple's UI design was from Xerox.
-Mac OS was the first OS with UI.
+macOS was the first OS with UI.
 Bill Gates saw that and founded Microsoft and developed Windows 1.0.
 
 After that,Apple was angry because Windows is more famous than its Mac OS.
@@ -321,11 +323,55 @@ Microsoft will help you all the time.
 
 *End of PC part*
 
-## Mobile OS
+# Mobile OS
 *Think Different*——Steve Jobs
 
+Since I'm only using iDevices,I will only talk about iOS.
+Any Android user wants to make a contibution,go to pull requests.
+[Tips](https://tips.apple.com/zh-cn/ios) are the offcial source by Apple.
+It also offers an app on iDevices.
+[Help](https://help.apple.com) is the offcial guide by Apple.
+
+## Performance
+iDevices are powerful with iOS.
+Unfortunately, iOS 11 behaves like rubbish.
+The best way is upgrading to iOS 12 Beta.
+
+### Join Apple Beta Software Program
+Common users can install public betas.
+1.Go to [ABSP](https://beta.apple.com)
+
+2.Join the program with your Apple ID.
+
+3.Download and install the profile.
+If passcode is needed,enter that.
+
+4.Tap 'Restart'
+
+5.Go to **Settings -> General -> Software Update** to install the beta software.
+
+### Install Developer Beta
+Developer betas are released quicker than public betas,more features are added but more unstable.
+
+1.Go to [iBeta](https://ibeta.me)
+
+2.Tap 'iOS 12 beta'
+
+3.Install the profile.
+If passcode is needed,enter that.
+
+4.Tap 'Restart'
+
+5.Go to **Settings -> General -> Software Update** to install the beta software.
+
+[**ATTENTION**:Bugs are always seen in beta software,you can report them by 'Feedback' App]
+
+## App
+Now your iDevice is ready.
+Let's download some apps which are banned in China.
+
 ### Suggested Websites
-[Apple Newsroom],[Apple Support] ([YouTube]) ([Twitter]) ([Community]),[9to5Mac] ([Also on YouTube]),[EverythingApplePro],[iFeng],[iDB],[TechReview],
+[Apple Newsroom],[Apple Support] ([YouTube]) ([Twitter]) ([Community]),[9to5Mac] ([Also on YouTube]),[EverythingApplePro],[iFeng],[iDB],[TechReview].
 
 [Apple Support]:https://support.apple.com
 
