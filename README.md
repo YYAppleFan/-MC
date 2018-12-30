@@ -12,17 +12,17 @@ If your PC and iDevices are running perfectly,you don't need to read this articl
 
 2.Windows PC
 
-* Intel® i7 8700K
-* ASUS® TUF Z370-PLUS GAMING
+* Intel® i7 8th generaition
+* Seagate FireCuda™ 2TB
 * Kingston® Savage 16GB DDR4 3000
-* Samsung® 850 EVO SATA III (1TB)
-* Colorful® iGame GTX 1080Ti Vulcan XOC
+* NVIDIA® GEFORCE RTX 2080 Ti
+* DELL® Ultrasharp 25 U2518D
 
 ## First,you need...
 1. A computer with recommend configuration
 2. Google Chrome ([Download]) 
   
-   Google Chrome is fast and secure,faster than any other browser(I do think it's good)
+   Google Chrome is faster than any other browser,which is also secure(I do think it's good).
 3. READ ALL PARAGRAPHS,ESPECIALLY **Attention** 
 
 [Download]:https://www.google.cn/chrome/?standalone=1
@@ -30,7 +30,7 @@ If your PC and iDevices are running perfectly,you don't need to read this articl
 ## List
 
 - [OS](README.md#os)
-  * [Windows](README.md#windows)
+* [Windows](README.md#windows)
   
   * [Device Driver](README.md#device-driver)
 
@@ -51,6 +51,8 @@ If your PC and iDevices are running perfectly,you don't need to read this articl
   * [Useful Softwares](README.md#useful-softwares)
 
   * [Security and Performance](README.md#security-and-performance)
+
+* [macOS](README.md#macOS)
 
 - [Mobile OS](README.md#mobile-os)
 
@@ -241,15 +243,11 @@ When you create an account with your phone numver,Baidu'll give you 2TB space.
 That's a big number.
 Also,many files are uploaded to it,such as movies,pictures and documents.The only bad thing is... 
 ## Release Download Speed Limit of Baidu Skydrive
-There are lots of good things in Baidu Skydrive,as I mentioned. But Baidu limits you speed of downloading files. Imagine you are downloading a 2.47GB file with the speed of 10KB/s,it's terrible!(Baidu provides 2TB space for each user,so they limit the speed,or they'll collapse.) As the saying goes,'Master in civil',yi ming(username) writes a script to release download speed limit. Before you download this script,you need to download the extension:Tampermonkey
-### Proxyee-Down
-[Proxyee-Down](https://github.com/proxyee-down-org/proxyee-down) is a project which help download files faster on GitHub.
-It uses [Man-in-the-middle attack](https://zh.wikipedia.org/zh-hans/中间人攻击) to get the webpage, then the proxy server will edit the page in order to release the limit. Here is the way to use it.
-* [Download the program](https://imhx-my.sharepoint.com/personal/pd_imhx_onmicrosoft_com/Documents/Forms/All.aspx?slrid=8f94999e-10b7-0000-3f2c-5ca9b5ceecd6&RootFolder=%2Fpersonal%2Fpd_imhx_onmicrosoft_com%2FDocuments%2Fproxyee-down&FolderCTID=0x012000536DC31294EC264084FE880734F95AEA), remember to choose the latest version.
-* Extract the package, then click on [Proxyee Down.exe]()
-* Install the extension for Baidu Skydrive [Tutorial]（https://github.com/proxyee-down-org/proxyee-down/wiki/%E5%AE%89%E8%A3%85%E6%89%A9%E5%B1%95）
+There are lots of good things in Baidu Skydrive,as I mentioned. But Baidu limits you speed of downloading files. Imagine you are downloading a 2.47GB file with the speed of 10KB/s,it's terrible!(Baidu provides 2TB space for each user,so they limit the speed,or they'll collapse.) However, Baidu starts to control each user's speed directly on their servers and force users to login to download, there's no way to crack...
 
-[**ATTENTION**:You'd better not use it when you're signed in. Baidu is always checking if users are using scripts. Do it in a private mode(Sharing Files is a good function)]
+
+
+The best way is to PAY or buy other services like Onedrive. A guy who sells 5T space only for 1
 
 ### Tencent Weiyun
 Every QQ user can get 10GB space for free.
@@ -300,13 +298,28 @@ Microsoft will help you all the time.
 
 >(4) Choose the things you want to delete,and click 'OK'.
 
+# macOS
+macOS is a operating system developed by Apple, which is a Unix-like OS based on BSD and NextStep.
+
+The latest software is Mojave (10.14.2).
+
+## A bit nervous from transferring from Windows?
+Don't worry.With a humane UI and faster responding speed, macOS is easy to get started. Apps first.
+
+## Apps
+macOS has an app for apps, it is [Mac App Store](macappstores://itunes.apple.com/cn/app/macos-mojave/id1398502828). Like the App Store in iOS,it provides millions of apps for Mac and updates them automatically. Though Store can give you safe and high-quality apps, it doesn't have powerful apps like Adobe® Creative Cloud, Microsoft® Office, etc. So how to download the apps?
+
+### System Prefences
+System Prefences is a tool to manage your Mac's settings. Like the example,to download an app not from Store,follow these steps.
+
+1. 
+
 *End of PC part*
 
-# Mobile OS
+# iOS
 *Think Different*——Steve Jobs
 
-Since I'm only using iDevices,I will only talk about iOS.
-Any Android user wants to make a contibution,go to pull requests.
+iOS is a operating system designed for iDevices,which is based on Linux.
 [Tips](https://tips.apple.com/zh-cn/ios) are the offcial source by Apple.
 It also offers an app on iDevices.
 [Help](https://help.apple.com) is the offcial guide by Apple.
@@ -318,11 +331,11 @@ The best way is upgrading to iOS 12 Beta.
 
 ### Join Apple Beta Software Program
 Common users can install public betas.
-1.Go to [ABSP](https://beta.apple.com)
+1. Go to [ABSP](https://beta.apple.com)
 
-2.Join the program with your Apple ID.
+2. Join the program with your Apple ID.
 
-3.Download and install the profile.
+3. Download and install the profile.
 If passcode is needed,enter that.
 
 4.Tap 'Restart'
@@ -332,16 +345,16 @@ If passcode is needed,enter that.
 ### Install Developer Beta
 Developer betas are released quicker than public betas,more features are added but more unstable.
 
-1.Go to [iBeta](https://ibeta.me)
+1. Go to [iBeta](https://ibeta.me)
 
-2.Tap 'iOS 12 beta'
+2.  Tap 'iOS 12 beta'
 
-3.Install the profile.
+3. Install the profile.
 If passcode is needed,enter that.
 
-4.Tap 'Restart'
+4. Tap 'Restart'
 
-5.Go to **Settings -> General -> Software Update** to install the beta software.
+5. Go to **Settings -> General -> Software Update** to install the beta software.
 
 [**ATTENTION**:Bugs are always seen in beta software,you can report them by 'Feedback' App]
 
@@ -350,7 +363,20 @@ Now your iDevice is ready.
 Let's download some apps which are banned in China.
 
 ### Suggested Websites
-[Apple Newsroom],[Apple Support] ([YouTube]) ([Twitter]) ([Community]),[9to5Mac] ([Also on YouTube]),[EverythingApplePro],[iFeng],[iDB],[TechReview].
+[Apple Newsroom]
+
+[Apple Support] ([YouTube]) 
+([Twitter]) ([Community])
+
+[9to5Mac] ([Also on YouTube])
+
+[EverythingApplePro]
+
+[iFeng]
+
+[iDB]
+
+[TechReview].
 
 [Apple Support]:https://support.apple.com
 
@@ -374,7 +400,7 @@ Let's download some apps which are banned in China.
 
 [YouTube]:https://www.youtube.com/channel/UCYFQ33UIPERYx8-ZHucZbDA
 
-You can also use the websites to learn about your devices. Like the battery and the performance,new features and problems.
+You can get more infomation like the battery and the performance,new features and problems about your iDevice.
 
 Also interested in Google? Search Google in Google! You can also join some projects of it and make a contribution,like [Material-UI],the design widely used in Android.
 
