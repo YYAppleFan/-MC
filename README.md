@@ -54,7 +54,7 @@ If your PC and iDevices are running perfectly,you don't need to read this articl
 
 * [macOS](README.md#macOS)
 
-- [Mobile OS](README.md#mobile-os)
+- [iOS](README.md#ios)
 
   * [Suggested Websites](README.md#suggested-websites)
 
