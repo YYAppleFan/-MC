@@ -1,6 +1,6 @@
 # IT Skills HERE
 This guide is written to show advanced skills.
-If your PC and iDevices are running perfectly,you don't need to read this article.
+If your computers and phones are running perfectly,you don't need to read this article.
 
 ## Recommend PC configuration
 1.Mac (End of 2017)
@@ -301,8 +301,7 @@ Microsoft will help you all the time.
 # macOS
 macOS is a operating system developed by Apple, which is a Unix-like OS based on BSD and NextStep.
 
-The latest software is Mojave (10.14.2).
-
+The latest software is Mojave (10.14.3). 
 ## A bit nervous from transferring from Windows?
 Don't worry.With a humane UI and faster responding speed, macOS is easy to get started. Apps first.
 
@@ -310,9 +309,26 @@ Don't worry.With a humane UI and faster responding speed, macOS is easy to get s
 macOS has an app for apps, it is [Mac App Store](macappstores://itunes.apple.com/cn/app/macos-mojave/id1398502828). Like the App Store in iOS,it provides millions of apps for Mac and updates them automatically. Though Store can give you safe and high-quality apps, it doesn't have powerful apps like Adobe® Creative Cloud, Microsoft® Office, etc. So how to download the apps?
 
 ### System Prefences
-System Prefences is a tool to manage your Mac's settings. Like the example,to download an app not from Store,follow these steps.
+System Prefences is a tool to manage your Mac's settings. Like the example,to download an app not from Store, follow these steps.
 
-1. 
+1. Click *Security & Privacy*
+2. Click *General*
+3. Choose *App Store and authenicated developers*
+
+Then you're done.Easy,right? Go on with the following steps and make your Mac prepared.
+
+#### General
+- Appearance: Choose light or dark mode
+- Automatically hide and show menu bar: This will expand your screen
+- Default Web Browser: Although Safari is fast and power-saving, it doesn't have as many extensions as Chrome. However, Chrome may take up your whole RAM and make your Mac hot. Select waht you like.
+
+#### Desktop and Screen Saver
+- Desktop: You can change wallpapers here. Different desktops have different wallpapers.
+- Screen Saver: Use *Hot corners* to make screen corners useful.
+
+#### Dock
+- Magnify: When your mouse is on the dock, the app you point at will magnify in order to make it more visible.
+- Show recent apps in Dock: This may take up more space to show. Close it.
 
 *End of PC part*
 
